@@ -2,7 +2,7 @@
 # codepen-copy
 
 
-デモ: https://version1-workspace.github.io/ws-0100-codepen-copy/
+デモ: https://tatsuya1981.github.io/ws-0100-codepen-copy/
 
 HTML, CSS(SASS), SMACSSとレスポンシブコーディングを勉強するためのリポジトリです。
 上記デモサイトをみながらなるべく同じサイトができるようにコーディングをしてもらいます。
